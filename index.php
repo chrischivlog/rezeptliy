@@ -9,52 +9,6 @@
 </button>
 <br>
 
-<div class="box">
-    <h4>Montag</h4>
-    <text class="box_text">
-        <?php include('generator.php') ?>
-    </text>
-</div>
 
-<div class="box">
-    <h4>Dienstag</h4>
-    <text class="box_text">
-        <?php include('generator.php') ?>
-    </text>
-</div>
-
-
-<div class="box">
-    <h4>Mittwoch</h4>
-    <text class="box_text">
-        <?php include('generator.php') ?>
-    </text>
-</div>
-
-<div class="box">
-    <h4>Donnerstag</h4>
-    <text class="box_text">
-        <?php include('generator.php') ?>
-    </text>
-</div>
-
-<div class="box">
-    <h4>Freitag</h4>
-    <text class="box_text">
-        <?php include('generator.php') ?>
-    </text>
-</div>
-
-<div class="box">
-    <h4>Samstag</h4>
-    <text class="box_text">
-        <?php include('generator.php') ?>
-    </text>
-</div>
-
-<div class="box">
-    <h4>Sonntag</h4>
-    <text class="box_text">
-        <?php include('generator.php') ?>
-    </text>
-</div>
+        <?php include('generator.php') 
+?>
